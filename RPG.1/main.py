@@ -57,7 +57,7 @@ match race:
             sub_race = "Gnomo da Floresta"
             dexterity +=1
         elif sub_race == 2:
-            sub_race = "Gbono da Pedra"
+            sub_race = "Gnono da Pedra"
             constitution+=1
     case 7:
         intelligence+=1
